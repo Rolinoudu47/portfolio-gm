@@ -1,1 +1,40 @@
-
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('https://burst.shopifycdn.com/photos/pastel-stationary.jpg?width=373&format=pjpg&exif=0&iptc=0');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#etudiante{
+  color: grey;
+  background-color: rgba(255,255,0,0.1);
+  border-radius:5px
+}
+#formation{
+  color: #bd1550;
+}
+#nomlogo{
+  color: grey;
+}
+#boutoninfo{
+  color: #bd1550;
+}
+#dernierecrea{
+  color: #bd1550;
+}
+#quisuisje{
+  color: #bd1550;
+}
+#decouvrez{
+  color: #bd1550;
+}
+#projet1{
+  color: #bd1550;
+}
+#projet2{
+  color: #bd1550;
+}
+#projet3{
+  color: #bd1550;
+}
